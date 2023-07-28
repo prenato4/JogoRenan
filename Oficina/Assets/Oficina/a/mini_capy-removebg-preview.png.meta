@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: 801155a162cc5eb41a9ede19b8672493
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 357
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa79f6f978541e49ae3cf5682d75c24
+      internalID: 1820599010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 357
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f477f3c23e7c4684daeab2efd243a
+      internalID: 431418326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd05304b01aa8046b117da4e9271163
+      internalID: -522973785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 357
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018647d8c48f2eb4e9a0a4946f02b55f
+      internalID: -1898096836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 357
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1789e41a5c6a5a47883a1abbd2de6f3
+      internalID: -581873800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97784abb2dcac645a0b44d034ca932f
+      internalID: 1270278016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 373
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a28235d1df22c47927270a567c180c
+      internalID: 564656874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 326
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51090d932170c40b63a5242d57cd92
+      internalID: 1239010526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbe39104e384e419458e1955f5886f
+      internalID: -207825100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 326
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa6e7e5d6eeab14e89f58d784a532d7
+      internalID: -878482711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211ca6b79758cb4f9c7321245ece372
+      internalID: -1841994242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 276
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0793064c98f1d9e41a8900f2ee36004e
+      internalID: 997168922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6765344cb60a3a0428f05363e54b4de9
+      internalID: 1792189353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 276
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd06f3f7f4e3449a705c19fe28e8ca
+      internalID: -1607270926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c583e340b97d42a497d03c4666901
+      internalID: -634357179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a84ccac42a5b24cae9cbf34456cb5e
+      internalID: -886235371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acddeafb8cb91fa4fa51f874e1654d53
+      internalID: 598991959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 242
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796288cdc9fd3ed47af5d10be321781a
+      internalID: -765219262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 242
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef0a149ee527b41b1436a2662c49b7
+      internalID: -1204636463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 242
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8bf8d6cafaef4c9f88aab94e02cf6
+      internalID: 47605519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 242
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8276cec61bae93144aa834d478f851ab
+      internalID: 1595603018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 209
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed6e48d32295b418dcfa90dc61ed0b
+      internalID: -1436800906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 210
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9564543674ba44ac14728de92bd55
+      internalID: 429867346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 210
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27e879ed7d12ed489ba67ecb0c10ccc
+      internalID: -986005881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef89c54cbb4184c8c0756a84b4a3f5
+      internalID: 448086333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 210
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf77610f136cc419f333a8a35a30ca
+      internalID: 1488139617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ff9e327a500a4294d91a09d8fb3df
+      internalID: 1855488516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 183
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fea9e811b7c91449cb846ab650d186
+      internalID: 780911444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee8d5a48f30054884e33accd58160e
+      internalID: -464494453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 174
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232cf9299d4a1c44087ddf274a4ec731
+      internalID: 1324605935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 174
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4552e6560a37de4409825e567d867cb9
+      internalID: 623322083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 174
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b7bbcdeefbda42b8d53cd2aac0b31
+      internalID: 1798377517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a390b0062e6278349b10465ecefdaced
+      internalID: 1317589049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b5db1375c5744984fc4cf57251ecd
+      internalID: -528548074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 147
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77859a9bef3374a85323b486036169
+      internalID: 1962982358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 139
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a27222c6f02e84ca79a160b23b87c7
+      internalID: -314361365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3281953546d214facaffd54a7b7f10
+      internalID: 381310159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 139
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfee4aeea424442897bbb6969ceebe
+      internalID: -1630985666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 139
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8997a287228d146a6d017e003cff4b
+      internalID: -2113927188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 139
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7872f38284a10544ea087ced64ccde7c
+      internalID: 1802322883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078c72598bf3284c8ca07992ca1ec60
+      internalID: 543230057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb18dd48bf5cc44b00bda2f1e7f953
+      internalID: -1104933351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 108
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe4c5cea3b2a14393641669f9879c5
+      internalID: 1516505820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865abb5118951a428a915ce66ab9f35
+      internalID: -221218821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 108
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8be224b5d885e4098f03731a3a6b58
+      internalID: 2081402295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 109
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dde583d039e5d4491e513e45548bee
+      internalID: -1401830776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cce3dde508e684988b049e4f2c5780
+      internalID: -68586974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 82
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89afd0818d7bd9449b0a640e2adcd57
+      internalID: -1119673512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb356f3df48da479fb7817350d2dcf
+      internalID: 149541736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4f7cb19a2d41449dae65815f66c83
+      internalID: -1458814660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 79
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c68b3068d45da489c240d0098be272
+      internalID: -1885223878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 79
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424248ae6f098842b556911dc90d66e
+      internalID: -256402343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 79
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826867b2c5a9d0844b1423a270fe1b23
+      internalID: -920646089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b08ab8737f5894689d421a86de1c5d
+      internalID: -21316021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c4bfdcf08796499772db0f42acf06
+      internalID: -30653843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 52
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410542e6e6639d48aff68686fed0660
+      internalID: -1613216530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 39
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1e6b6493bfbe499cb4a9629f517a1
+      internalID: -114679745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 40
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd87dc1a5cad64a83b4057820d7d4e
+      internalID: 1300670729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 39
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c1b242edc2724d933854ca23d1fca
+      internalID: 713833489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa354d62e6a60ce43ba9669e3983a71c
+      internalID: 671317040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 37
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f428a816d548438e8e3a6604b94cf
+      internalID: -454934682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809e6425c62f5e48b93b50da4e4bf22
+      internalID: 453382413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267a114e3c4f73041b1c46edf55e4f39
+      internalID: 1074562715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06708d8e3867a24790e7e570a0fab05
+      internalID: 734196051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e56c7f10180e4c982c6ec5940be02
+      internalID: 286747791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5061ffce49044cab83c737d7409a2
+      internalID: -690345836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cceed4e0186847ba8c34e841e0644
+      internalID: 1022273568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_capy-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39957af287832f44aafd476bc3e4529
+      internalID: 1707329486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mini_capy-removebg-preview_50: -1885223878
+      mini_capy-removebg-preview_23: -986005881
+      mini_capy-removebg-preview_13: -1607270926
+      mini_capy-removebg-preview_42: 1516505820
+      mini_capy-removebg-preview_33: -528548074
+      mini_capy-removebg-preview_38: -2113927188
+      mini_capy-removebg-preview_16: 598991959
+      mini_capy-removebg-preview_17: -765219262
+      mini_capy-removebg-preview_1: 431418326
+      mini_capy-removebg-preview_51: -256402343
+      mini_capy-removebg-preview_52: -920646089
+      mini_capy-removebg-preview_46: -68586974
+      mini_capy-removebg-preview_34: 1962982358
+      mini_capy-removebg-preview_59: 671317040
+      mini_capy-removebg-preview_39: 1802322883
+      mini_capy-removebg-preview_60: -454934682
+      mini_capy-removebg-preview_43: -221218821
+      mini_capy-removebg-preview_54: -30653843
+      mini_capy-removebg-preview_7: 1239010526
+      mini_capy-removebg-preview_53: -21316021
+      mini_capy-removebg-preview_55: -1613216530
+      mini_capy-removebg-preview_5: 1270278016
+      mini_capy-removebg-preview_40: 543230057
+      mini_capy-removebg-preview_63: 734196051
+      mini_capy-removebg-preview_47: -1119673512
+      mini_capy-removebg-preview_48: 149541736
+      mini_capy-removebg-preview_0: 1820599010
+      mini_capy-removebg-preview_62: 1074562715
+      mini_capy-removebg-preview_66: 1022273568
+      mini_capy-removebg-preview_36: 381310159
+      mini_capy-removebg-preview_15: -886235371
+      mini_capy-removebg-preview_30: 623322083
+      mini_capy-removebg-preview_58: 713833489
+      mini_capy-removebg-preview_22: 429867346
+      mini_capy-removebg-preview_24: 448086333
+      mini_capy-removebg-preview_29: 1324605935
+      mini_capy-removebg-preview_8: -207825100
+      mini_capy-removebg-preview_11: 997168922
+      mini_capy-removebg-preview_31: 1798377517
+      mini_capy-removebg-preview_64: 286747791
+      mini_capy-removebg-preview_4: -581873800
+      mini_capy-removebg-preview_41: -1104933351
+      mini_capy-removebg-preview_32: 1317589049
+      mini_capy-removebg-preview_57: 1300670729
+      mini_capy-removebg-preview_56: -114679745
+      mini_capy-removebg-preview_18: -1204636463
+      mini_capy-removebg-preview_26: 1855488516
+      mini_capy-removebg-preview_37: -1630985666
+      mini_capy-removebg-preview_67: 1707329486
+      mini_capy-removebg-preview_10: -1841994242
+      mini_capy-removebg-preview_14: -634357179
+      mini_capy-removebg-preview_3: -1898096836
+      mini_capy-removebg-preview_2: -522973785
+      mini_capy-removebg-preview_25: 1488139617
+      mini_capy-removebg-preview_35: -314361365
+      mini_capy-removebg-preview_45: -1401830776
+      mini_capy-removebg-preview_27: 780911444
+      mini_capy-removebg-preview_21: -1436800906
+      mini_capy-removebg-preview_9: -878482711
+      mini_capy-removebg-preview_12: 1792189353
+      mini_capy-removebg-preview_61: 453382413
+      mini_capy-removebg-preview_65: -690345836
+      mini_capy-removebg-preview_6: 564656874
+      mini_capy-removebg-preview_49: -1458814660
+      mini_capy-removebg-preview_20: 1595603018
+      mini_capy-removebg-preview_19: 47605519
+      mini_capy-removebg-preview_28: -464494453
+      mini_capy-removebg-preview_44: 2081402295
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
