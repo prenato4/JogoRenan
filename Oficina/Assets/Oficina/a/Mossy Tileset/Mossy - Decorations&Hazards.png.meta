@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -831,7 +831,6 @@ TextureImporter:
       Mossy - Decorations&Hazards_4: 779662519
       Mossy - Decorations&Hazards_3: 641576603
       Mossy - Decorations&Hazards_20: -1683340096
-      Mossy - Decorations&Hazards_26: -1804822200
       Mossy - Decorations&Hazards_0: -1383786506
       Mossy - Decorations&Hazards_25: -1939289537
       Mossy - Decorations&Hazards_23: 1441102113
@@ -842,18 +841,19 @@ TextureImporter:
       Mossy - Decorations&Hazards_12: 785839673
       Mossy - Decorations&Hazards_31: -4580158
       Mossy - Decorations&Hazards_7: -1814458193
-      Mossy - Decorations&Hazards_13: -378354977
+      Mossy - Decorations&Hazards_26: -1804822200
       Mossy - Decorations&Hazards_14: -1857938410
       Mossy - Decorations&Hazards_16: 1557955256
       Mossy - Decorations&Hazards_8: -1859037847
-      Mossy - Decorations&Hazards_17: -331392916
+      Mossy - Decorations&Hazards_13: -378354977
       Mossy - Decorations&Hazards_32: -1595399509
       Mossy - Decorations&Hazards_15: -1246977968
       Mossy - Decorations&Hazards_28: -1332520783
       Mossy - Decorations&Hazards_19: -1372140123
-      Mossy - Decorations&Hazards_30: -77190613
+      Mossy - Decorations&Hazards_17: -331392916
       Mossy - Decorations&Hazards_18: -1307321998
       Mossy - Decorations&Hazards_33: 1369590549
+      Mossy - Decorations&Hazards_30: -77190613
       Mossy - Decorations&Hazards_21: -682259269
       Mossy - Decorations&Hazards_24: -441751074
       Mossy - Decorations&Hazards_10: -322847196
