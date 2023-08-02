@@ -13,6 +13,8 @@ public class gamecontroller : MonoBehaviour
     public Text scoreText;
     
     public int totalScore;
+    public int Ca;
+    public Text CaText;
 
     public static gamecontroller instance;
 
@@ -54,6 +56,16 @@ public class gamecontroller : MonoBehaviour
     {
         healthText.text = "x " + value.ToString();
     }
+    
+    public void UpdateCa(int value)
+    {
+        Ca += value;
+        CaText.text = Ca.ToString();
+        
+    }
+
+    
+    
 
     public void RestartGame()
     {
