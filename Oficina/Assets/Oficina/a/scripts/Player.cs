@@ -36,7 +36,6 @@ public class Player : MonoBehaviour
     void Update()
     {
         Jump();
-        AT();
     }
 
     private void FixedUpdate()
@@ -81,19 +80,13 @@ public class Player : MonoBehaviour
         {
             if (!IsJumPing)
             {
-                AN.SetInteger("transition", 2);
                 RIG.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
                 IsJumPing = true;
                 
             }
         }   
     }
-
-    void AT()
-    {
-        StartCoroutine("ATA");
-    }
-
+    
     
 
     public void Damage(int DM)
