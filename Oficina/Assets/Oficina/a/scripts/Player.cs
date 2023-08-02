@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     public float jumpForce;
     
     private bool IsJumPing;
+    private bool doubleJump;
     private Rigidbody2D RIG;
     private Animator AN;
     private float M;
@@ -81,8 +82,18 @@ public class Player : MonoBehaviour
             if (!IsJumPing)
             {
                 RIG.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
+                doubleJump = true;
                 IsJumPing = true;
-                
+
+            }
+
+            else
+            {
+                if (doubleJump)
+                {
+                    RIG.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
+                    doubleJump = false;
+                }
             }
         }   
     }
@@ -138,4 +149,6 @@ public class Player : MonoBehaviour
             PosInicial = CL.gameObject.transform.position;
         }
     }
+
+    
 }
