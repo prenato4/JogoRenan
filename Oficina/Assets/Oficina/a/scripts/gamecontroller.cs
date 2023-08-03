@@ -8,6 +8,7 @@ public class gamecontroller : MonoBehaviour
 {
 
     public Text healthText;
+    public Text messageText;
 
     public int score;
     public Text scoreText;
@@ -32,6 +33,7 @@ public class gamecontroller : MonoBehaviour
     {
         instance = this;
         portal.SetActive(false);
+        
         
     }
 
@@ -65,6 +67,17 @@ public class gamecontroller : MonoBehaviour
     {
         Ca += value;
         CaText.text = Ca.ToString();
+        
+        if (Ca >= 10)
+        {
+            portal.SetActive(true); // Ativar o portal
+            messageText.text = "Portal ativado!.";
+        }
+        else
+        {
+            messageText.text = ""; // Limpar a mensagem quando não estiver ativo
+        }
+        
         
         
     }

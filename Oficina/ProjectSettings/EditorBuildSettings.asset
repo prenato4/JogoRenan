@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Oficina/Menu.unity
     guid: b201eba0136df474890b78e0943d9cd4
   - enabled: 1
+    path: Assets/Oficina/History.unity
+    guid: 89e886b81da3cf64480eef3b82c04299
+  - enabled: 1
     path: Assets/Oficina/Oficina.unity
     guid: 085b11d1ebfd00f4eb34658f13ab431e
   - enabled: 1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 801155a162cc5eb41a9ede19b8672493
+guid: f2de9adcac677b54d8a4f4b93e7165e3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_0
+      name: charlieTheCapybaraAnimationSheet_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 357
-        width: 24
-        height: 20
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,41 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fa79f6f978541e49ae3cf5682d75c24
-      internalID: 1820599010
+      spriteID: eea81d8170f37e14296ebf9d65325c7e
+      internalID: -1593822635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 357
-        width: 11
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d28f477f3c23e7c4684daeab2efd243a
-      internalID: 431418326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mini_capy-removebg-preview_2
+      name: charlieTheCapybaraAnimationSheet_1
       rect:
         serializedVersion: 2
         x: 64
-        y: 357
-        width: 11
-        height: 20
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd05304b01aa8046b117da4e9271163
-      internalID: -522973785
+      spriteID: 03778c3bcd9753f4aaaf0814047f342f
+      internalID: 1540020574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_3
+      name: charlieTheCapybaraAnimationSheet_2
       rect:
         serializedVersion: 2
-        x: 88
-        y: 357
-        width: 24
-        height: 20
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,62 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 018647d8c48f2eb4e9a0a4946f02b55f
-      internalID: -1898096836
+      spriteID: 3e9052ac9e7c68940916a9ba63667353
+      internalID: 2018977784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_4
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 357
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1789e41a5c6a5a47883a1abbd2de6f3
-      internalID: -581873800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mini_capy-removebg-preview_5
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 357
-        width: 23
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d97784abb2dcac645a0b44d034ca932f
-      internalID: 1270278016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mini_capy-removebg-preview_6
+      name: charlieTheCapybaraAnimationSheet_3
       rect:
         serializedVersion: 2
         x: 192
-        y: 373
-        width: 9
-        height: 10
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51a28235d1df22c47927270a567c180c
-      internalID: 564656874
+      spriteID: 13521dab74988024da2131a97cf0bd1f
+      internalID: 1804033812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_7
+      name: charlieTheCapybaraAnimationSheet_4
       rect:
         serializedVersion: 2
-        x: 5
-        y: 326
-        width: 25
-        height: 9
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d51090d932170c40b63a5242d57cd92
-      internalID: 1239010526
+      spriteID: d002b8a7af088d048b46d9a6aecb0051
+      internalID: -1696457687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_8
+      name: charlieTheCapybaraAnimationSheet_5
       rect:
         serializedVersion: 2
-        x: 37
-        y: 325
-        width: 23
-        height: 22
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ddbe39104e384e419458e1955f5886f
-      internalID: -207825100
+      spriteID: 8e39766eda92ce5439c3bdc2ff36a9d3
+      internalID: -1279635595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_9
+      name: charlieTheCapybaraAnimationSheet_6
       rect:
         serializedVersion: 2
-        x: 63
-        y: 326
-        width: 23
-        height: 18
+        x: 384
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2aa6e7e5d6eeab14e89f58d784a532d7
-      internalID: -878482711
+      spriteID: bc9a20dd4ca0e494eac6904345cd7dca
+      internalID: 180913145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_10
+      name: charlieTheCapybaraAnimationSheet_7
       rect:
         serializedVersion: 2
-        x: 6
-        y: 286
-        width: 19
-        height: 4
+        x: 448
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e211ca6b79758cb4f9c7321245ece372
-      internalID: -1841994242
+      spriteID: d7905175e1f8b8f4db69e2ac2dcac975
+      internalID: -520957636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_11
+      name: charlieTheCapybaraAnimationSheet_8
       rect:
         serializedVersion: 2
-        x: 43
-        y: 276
-        width: 24
-        height: 20
+        x: 512
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0793064c98f1d9e41a8900f2ee36004e
-      internalID: 997168922
+      spriteID: 8dbb0567db07aee4a84032077dc76fd6
+      internalID: -1670534312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_12
+      name: charlieTheCapybaraAnimationSheet_9
       rect:
         serializedVersion: 2
-        x: 74
-        y: 276
-        width: 22
-        height: 19
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6765344cb60a3a0428f05363e54b4de9
-      internalID: 1792189353
+      spriteID: 8c97baaf619206e43ae0e8aa075ffe14
+      internalID: -234301647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_13
+      name: charlieTheCapybaraAnimationSheet_10
       rect:
         serializedVersion: 2
-        x: 102
-        y: 276
-        width: 20
-        height: 20
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38cd06f3f7f4e3449a705c19fe28e8ca
-      internalID: -1607270926
+      spriteID: 55113e415d64d4f488842a13f43d05b5
+      internalID: -748553021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_14
+      name: charlieTheCapybaraAnimationSheet_11
       rect:
         serializedVersion: 2
-        x: 129
-        y: 276
-        width: 22
-        height: 21
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a5c583e340b97d42a497d03c4666901
-      internalID: -634357179
+      spriteID: a275e731fc690bf498b74b4345d2f853
+      internalID: 93060948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_15
+      name: charlieTheCapybaraAnimationSheet_12
       rect:
         serializedVersion: 2
-        x: 156
-        y: 276
-        width: 22
-        height: 21
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55a84ccac42a5b24cae9cbf34456cb5e
-      internalID: -886235371
+      spriteID: 24de564cafaee7047bfd8d3d8fa94704
+      internalID: -2007399725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_16
+      name: charlieTheCapybaraAnimationSheet_13
       rect:
         serializedVersion: 2
-        x: 52
-        y: 242
-        width: 11
-        height: 20
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,20 +391,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acddeafb8cb91fa4fa51f874e1654d53
-      internalID: 598991959
+      spriteID: 977b6528e6080c34c89cf04a4ec982b6
+      internalID: 848603139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_17
+      name: charlieTheCapybaraAnimationSheet_14
       rect:
         serializedVersion: 2
-        x: 74
-        y: 242
-        width: 10
-        height: 19
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +412,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 796288cdc9fd3ed47af5d10be321781a
-      internalID: -765219262
+      spriteID: 3eddacbb9dfc5cc478c5e5908e496560
+      internalID: 551360933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_18
+      name: charlieTheCapybaraAnimationSheet_15
       rect:
         serializedVersion: 2
-        x: 95
-        y: 242
-        width: 10
-        height: 20
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,20 +433,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcef0a149ee527b41b1436a2662c49b7
-      internalID: -1204636463
+      spriteID: a4d4e29b6009e654f94f218dc1cd18c1
+      internalID: -693273613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_19
+      name: charlieTheCapybaraAnimationSheet_16
       rect:
         serializedVersion: 2
-        x: 116
-        y: 242
-        width: 10
-        height: 21
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,20 +454,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3a8bf8d6cafaef4c9f88aab94e02cf6
-      internalID: 47605519
+      spriteID: ab77b20b9e26b3042997b627a9918690
+      internalID: 2036494451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_20
+      name: charlieTheCapybaraAnimationSheet_17
       rect:
         serializedVersion: 2
-        x: 138
-        y: 242
-        width: 10
-        height: 21
+        x: 512
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +475,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8276cec61bae93144aa834d478f851ab
-      internalID: 1595603018
+      spriteID: 8b1f9708873029a43af87a7566c3d055
+      internalID: -1235266111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_21
+      name: charlieTheCapybaraAnimationSheet_18
       rect:
         serializedVersion: 2
-        x: 52
-        y: 209
-        width: 11
-        height: 20
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,20 +496,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8ed6e48d32295b418dcfa90dc61ed0b
-      internalID: -1436800906
+      spriteID: ee0716685d11d2847bfbf9b7cee63ba1
+      internalID: -114556548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_22
+      name: charlieTheCapybaraAnimationSheet_19
       rect:
         serializedVersion: 2
-        x: 73
-        y: 210
-        width: 10
-        height: 19
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,20 +517,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bae9564543674ba44ac14728de92bd55
-      internalID: 429867346
+      spriteID: 96b8cb9027d51684ba7ef98a9227cbdc
+      internalID: 1792521017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_23
+      name: charlieTheCapybaraAnimationSheet_20
       rect:
         serializedVersion: 2
-        x: 95
-        y: 210
-        width: 10
-        height: 20
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,20 +538,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27e879ed7d12ed489ba67ecb0c10ccc
-      internalID: -986005881
+      spriteID: 10553f31bcbd0504d98b4cdb07fdbbac
+      internalID: 388988167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_24
+      name: charlieTheCapybaraAnimationSheet_21
       rect:
         serializedVersion: 2
-        x: 116
-        y: 210
-        width: 10
-        height: 21
+        x: 512
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,20 +559,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15ef89c54cbb4184c8c0756a84b4a3f5
-      internalID: 448086333
+      spriteID: 5227b0df057e8414b80c74b10686d6af
+      internalID: 931897758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_25
+      name: charlieTheCapybaraAnimationSheet_22
       rect:
         serializedVersion: 2
-        x: 138
-        y: 210
-        width: 10
-        height: 21
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,20 +580,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61cf77610f136cc419f333a8a35a30ca
-      internalID: 1488139617
+      spriteID: f988dc372f1412e4f93dc0f411445e7d
+      internalID: 976514395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_26
+      name: charlieTheCapybaraAnimationSheet_23
       rect:
         serializedVersion: 2
-        x: 7
-        y: 183
-        width: 13
-        height: 4
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,20 +601,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f6ff9e327a500a4294d91a09d8fb3df
-      internalID: 1855488516
+      spriteID: ad0b4239701ed3149b54f354be9e0331
+      internalID: 1904185827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_27
+      name: charlieTheCapybaraAnimationSheet_24
       rect:
         serializedVersion: 2
-        x: 21
-        y: 183
-        width: 4
-        height: 4
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,20 +622,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26fea9e811b7c91449cb846ab650d186
-      internalID: 780911444
+      spriteID: dac4e29d8136cb040901d845cac1086b
+      internalID: -1150509947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_28
+      name: charlieTheCapybaraAnimationSheet_25
       rect:
         serializedVersion: 2
-        x: 46
-        y: 174
-        width: 24
-        height: 20
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +643,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6ee8d5a48f30054884e33accd58160e
-      internalID: -464494453
+      spriteID: e8a3512727e098c4d90503a78a4a96f0
+      internalID: -139941123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_29
+      name: charlieTheCapybaraAnimationSheet_26
       rect:
         serializedVersion: 2
-        x: 79
-        y: 174
-        width: 24
-        height: 18
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +664,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 232cf9299d4a1c44087ddf274a4ec731
-      internalID: 1324605935
+      spriteID: 50aad9bc9af29684ca1ffdb7835775d8
+      internalID: -1812000084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_30
+      name: charlieTheCapybaraAnimationSheet_27
       rect:
         serializedVersion: 2
-        x: 112
-        y: 174
-        width: 24
-        height: 17
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,20 +685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4552e6560a37de4409825e567d867cb9
-      internalID: 623322083
+      spriteID: 9e5ac79df3f99af4fbd6011bebb37467
+      internalID: -1742457593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_31
+      name: charlieTheCapybaraAnimationSheet_28
       rect:
         serializedVersion: 2
-        x: 144
-        y: 174
-        width: 24
-        height: 19
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,20 +706,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 070b7bbcdeefbda42b8d53cd2aac0b31
-      internalID: 1798377517
+      spriteID: 15c4409bd3d851948b0ddd428f0232fc
+      internalID: -629782720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_32
+      name: charlieTheCapybaraAnimationSheet_29
       rect:
         serializedVersion: 2
-        x: 175
-        y: 173
-        width: 24
-        height: 21
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,20 +727,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a390b0062e6278349b10465ecefdaced
-      internalID: 1317589049
+      spriteID: ef88a98bf27214645979f98f8f30762b
+      internalID: 313411672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_33
+      name: charlieTheCapybaraAnimationSheet_30
       rect:
         serializedVersion: 2
-        x: 10
-        y: 147
-        width: 7
-        height: 4
+        x: 512
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,20 +748,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c4b5db1375c5744984fc4cf57251ecd
-      internalID: -528548074
+      spriteID: 5135b2f583da1d84f89c72a54eb5b669
+      internalID: 1492578358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_34
+      name: charlieTheCapybaraAnimationSheet_31
       rect:
         serializedVersion: 2
-        x: 18
-        y: 147
-        width: 4
-        height: 4
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,20 +769,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a77859a9bef3374a85323b486036169
-      internalID: 1962982358
+      spriteID: 5ee97b2ac5638464198b6bb9b7b1f65b
+      internalID: -95342381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_35
+      name: charlieTheCapybaraAnimationSheet_32
       rect:
         serializedVersion: 2
-        x: 46
-        y: 139
-        width: 24
-        height: 20
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,20 +790,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03a27222c6f02e84ca79a160b23b87c7
-      internalID: -314361365
+      spriteID: a4f5f22973ab0114490a854318d010c8
+      internalID: -1141039328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_36
+      name: charlieTheCapybaraAnimationSheet_33
       rect:
         serializedVersion: 2
-        x: 80
-        y: 139
-        width: 23
-        height: 20
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,20 +811,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f3281953546d214facaffd54a7b7f10
-      internalID: 381310159
+      spriteID: 3a9cd9fd18abfb64397b8224b8ac88e9
+      internalID: -849919374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_37
+      name: charlieTheCapybaraAnimationSheet_34
       rect:
         serializedVersion: 2
-        x: 111
-        y: 139
-        width: 22
-        height: 21
+        x: 512
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,20 +832,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74dfee4aeea424442897bbb6969ceebe
-      internalID: -1630985666
+      spriteID: 6265a84212ba55240aa23574abd3a965
+      internalID: -1638073475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_38
+      name: charlieTheCapybaraAnimationSheet_35
       rect:
         serializedVersion: 2
-        x: 140
-        y: 139
-        width: 21
-        height: 22
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,20 +853,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c8997a287228d146a6d017e003cff4b
-      internalID: -2113927188
+      spriteID: 0c5e4ac166f9c8d408864785377a4998
+      internalID: 573490277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_39
+      name: charlieTheCapybaraAnimationSheet_36
       rect:
         serializedVersion: 2
-        x: 169
-        y: 139
-        width: 22
-        height: 22
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,20 +874,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7872f38284a10544ea087ced64ccde7c
-      internalID: 1802322883
+      spriteID: 4944149546c133847ba1223b7165c2ed
+      internalID: -13922948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_40
+      name: charlieTheCapybaraAnimationSheet_37
       rect:
         serializedVersion: 2
-        x: 9
-        y: 118
-        width: 14
-        height: 4
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -958,20 +895,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6078c72598bf3284c8ca07992ca1ec60
-      internalID: 543230057
+      spriteID: 9b814028bb1438e42ad07e11c95a1d04
+      internalID: 1150500232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_41
+      name: charlieTheCapybaraAnimationSheet_38
       rect:
         serializedVersion: 2
-        x: 46
-        y: 108
-        width: 23
-        height: 21
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,20 +916,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaeb18dd48bf5cc44b00bda2f1e7f953
-      internalID: -1104933351
+      spriteID: f49f7b1768f3e6d449e40c6a6541ae3b
+      internalID: -1275310969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_42
+      name: charlieTheCapybaraAnimationSheet_39
       rect:
         serializedVersion: 2
-        x: 76
-        y: 108
-        width: 24
-        height: 19
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,20 +937,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2fe4c5cea3b2a14393641669f9879c5
-      internalID: 1516505820
+      spriteID: e7a3971a509544340b344abc0804e538
+      internalID: 2103407563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_43
+      name: charlieTheCapybaraAnimationSheet_40
       rect:
         serializedVersion: 2
-        x: 107
-        y: 108
-        width: 26
-        height: 20
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1021,20 +958,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6865abb5118951a428a915ce66ab9f35
-      internalID: -221218821
+      spriteID: 6b78bad69f2f5ae4f8ccc80b7c965331
+      internalID: -482381885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_44
+      name: charlieTheCapybaraAnimationSheet_41
       rect:
         serializedVersion: 2
-        x: 140
-        y: 108
-        width: 26
-        height: 20
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,20 +979,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a8be224b5d885e4098f03731a3a6b58
-      internalID: 2081402295
+      spriteID: cb8b9b5e48e8d3c4291edf07204b2636
+      internalID: 599415728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_45
+      name: charlieTheCapybaraAnimationSheet_42
       rect:
         serializedVersion: 2
-        x: 174
-        y: 109
-        width: 26
-        height: 19
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1063,20 +1000,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94dde583d039e5d4491e513e45548bee
-      internalID: -1401830776
+      spriteID: e7539519b9c5efa4a9e02fa6a21fac77
+      internalID: -1404156595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_46
+      name: charlieTheCapybaraAnimationSheet_43
       rect:
         serializedVersion: 2
-        x: 10
-        y: 82
-        width: 4
-        height: 4
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,20 +1021,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19cce3dde508e684988b049e4f2c5780
-      internalID: -68586974
+      spriteID: 9167f632e466ed2499e253b7564f75cc
+      internalID: 1783742843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_47
+      name: charlieTheCapybaraAnimationSheet_44
       rect:
         serializedVersion: 2
-        x: 15
-        y: 82
-        width: 19
-        height: 4
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,20 +1042,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f89afd0818d7bd9449b0a640e2adcd57
-      internalID: -1119673512
+      spriteID: bba419e55ed9861429f9b5c6aae4be36
+      internalID: -1657747350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_48
+      name: charlieTheCapybaraAnimationSheet_45
       rect:
         serializedVersion: 2
-        x: 48
-        y: 79
-        width: 25
-        height: 9
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,20 +1063,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2fb356f3df48da479fb7817350d2dcf
-      internalID: 149541736
+      spriteID: 7e6d128da7bc5cc4bbd98bb7b1eb6b79
+      internalID: 1182832357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_49
+      name: charlieTheCapybaraAnimationSheet_46
       rect:
         serializedVersion: 2
-        x: 81
-        y: 79
-        width: 24
-        height: 10
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1147,20 +1084,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fa4f7cb19a2d41449dae65815f66c83
-      internalID: -1458814660
+      spriteID: c92169906ad8baf4dbf6426b4507deb6
+      internalID: -707033177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_50
+      name: charlieTheCapybaraAnimationSheet_47
       rect:
         serializedVersion: 2
-        x: 116
-        y: 79
-        width: 24
-        height: 12
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,20 +1105,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44c68b3068d45da489c240d0098be272
-      internalID: -1885223878
+      spriteID: a44ebaddf2eefdc4f9496108c78f14a3
+      internalID: -1318055582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_51
+      name: charlieTheCapybaraAnimationSheet_48
       rect:
         serializedVersion: 2
-        x: 149
-        y: 79
-        width: 24
-        height: 15
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,20 +1126,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0424248ae6f098842b556911dc90d66e
-      internalID: -256402343
+      spriteID: 90584bfb894795740a3311cab520eb8c
+      internalID: 973311054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_52
+      name: charlieTheCapybaraAnimationSheet_49
       rect:
         serializedVersion: 2
-        x: 184
-        y: 79
-        width: 26
-        height: 18
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,20 +1147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 826867b2c5a9d0844b1423a270fe1b23
-      internalID: -920646089
+      spriteID: 660bbe27e1e98e545a88cbac1666811c
+      internalID: -981151184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_53
+      name: charlieTheCapybaraAnimationSheet_50
       rect:
         serializedVersion: 2
-        x: 9
-        y: 52
-        width: 4
-        height: 4
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1231,20 +1168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26b08ab8737f5894689d421a86de1c5d
-      internalID: -21316021
+      spriteID: 2a1da3b14766b66428c6f7c400783fd9
+      internalID: -652789020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_54
+      name: charlieTheCapybaraAnimationSheet_51
       rect:
         serializedVersion: 2
-        x: 14
-        y: 52
-        width: 4
-        height: 4
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,20 +1189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f82c4bfdcf08796499772db0f42acf06
-      internalID: -30653843
+      spriteID: b18162f9e494801448874645f721439c
+      internalID: 1756416122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_55
+      name: charlieTheCapybaraAnimationSheet_52
       rect:
         serializedVersion: 2
-        x: 19
-        y: 52
-        width: 14
-        height: 4
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,20 +1210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e410542e6e6639d48aff68686fed0660
-      internalID: -1613216530
+      spriteID: a95a79d339eb11548a4447306d33ec42
+      internalID: -1149596041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_56
+      name: charlieTheCapybaraAnimationSheet_53
       rect:
         serializedVersion: 2
-        x: 50
-        y: 39
-        width: 23
-        height: 23
+        x: 512
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,20 +1231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb1e6b6493bfbe499cb4a9629f517a1
-      internalID: -114679745
+      spriteID: bed05058f50b4944f93b2bf2da0374c2
+      internalID: -803956210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_57
+      name: charlieTheCapybaraAnimationSheet_54
       rect:
         serializedVersion: 2
-        x: 84
-        y: 40
-        width: 23
-        height: 24
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,20 +1252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fdd87dc1a5cad64a83b4057820d7d4e
-      internalID: 1300670729
+      spriteID: e8c297a2dd583d7459403dd90582e764
+      internalID: 1394497762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_58
+      name: charlieTheCapybaraAnimationSheet_55
       rect:
         serializedVersion: 2
-        x: 119
-        y: 39
-        width: 20
-        height: 26
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1336,20 +1273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 001c1b242edc2724d933854ca23d1fca
-      internalID: 713833489
+      spriteID: 92359394a9f6078489010a3bf4663923
+      internalID: 61753808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_59
+      name: charlieTheCapybaraAnimationSheet_56
       rect:
         serializedVersion: 2
-        x: 150
-        y: 38
-        width: 22
-        height: 25
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,20 +1294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa354d62e6a60ce43ba9669e3983a71c
-      internalID: 671317040
+      spriteID: f5a2c8d09f23c0949afad3b7923fa28e
+      internalID: 1447889190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_60
+      name: charlieTheCapybaraAnimationSheet_57
       rect:
         serializedVersion: 2
-        x: 184
-        y: 37
-        width: 25
-        height: 19
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,20 +1315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 351f428a816d548438e8e3a6604b94cf
-      internalID: -454934682
+      spriteID: 7145fa361cf20944da5a9250355f905f
+      internalID: 1016816464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_61
+      name: charlieTheCapybaraAnimationSheet_58
       rect:
         serializedVersion: 2
-        x: 11
-        y: 13
-        width: 17
-        height: 4
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1399,20 +1336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a809e6425c62f5e48b93b50da4e4bf22
-      internalID: 453382413
+      spriteID: fe2115f9d689a584aa86fc96661e9f0b
+      internalID: 464360778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_62
+      name: charlieTheCapybaraAnimationSheet_59
       rect:
         serializedVersion: 2
-        x: 51
-        y: 6
-        width: 22
-        height: 18
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1420,20 +1357,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 267a114e3c4f73041b1c46edf55e4f39
-      internalID: 1074562715
+      spriteID: f1cdbee14fa2636429722a59f6009738
+      internalID: 133295482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_63
+      name: charlieTheCapybaraAnimationSheet_60
       rect:
         serializedVersion: 2
-        x: 85
-        y: 5
-        width: 26
-        height: 18
+        x: 384
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,20 +1378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e06708d8e3867a24790e7e570a0fab05
-      internalID: 734196051
+      spriteID: 5ad23c7e0ae4b314b8b3b0a39bc7ea8b
+      internalID: -754901705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_64
+      name: charlieTheCapybaraAnimationSheet_61
       rect:
         serializedVersion: 2
-        x: 119
-        y: 6
-        width: 33
-        height: 15
+        x: 448
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1462,20 +1399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de6e56c7f10180e4c982c6ec5940be02
-      internalID: 286747791
+      spriteID: 8631ff005929ef349a2cc950339316c6
+      internalID: -797060125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mini_capy-removebg-preview_65
+      name: charlieTheCapybaraAnimationSheet_62
       rect:
         serializedVersion: 2
-        x: 160
-        y: 5
-        width: 36
-        height: 17
+        x: 512
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1483,50 +1420,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0af5061ffce49044cab83c737d7409a2
-      internalID: -690345836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mini_capy-removebg-preview_66
-      rect:
-        serializedVersion: 2
-        x: 202
-        y: 4
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd6cceed4e0186847ba8c34e841e0644
-      internalID: 1022273568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mini_capy-removebg-preview_67
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 15
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f39957af287832f44aafd476bc3e4529
-      internalID: 1707329486
+      spriteID: 211e2c4103b7b874d8707f54a16ed988
+      internalID: 1336617609
       vertices: []
       indices: 
       edges: []
@@ -1542,74 +1437,69 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mini_capy-removebg-preview_50: -1885223878
-      mini_capy-removebg-preview_23: -986005881
-      mini_capy-removebg-preview_13: -1607270926
-      mini_capy-removebg-preview_42: 1516505820
-      mini_capy-removebg-preview_33: -528548074
-      mini_capy-removebg-preview_38: -2113927188
-      mini_capy-removebg-preview_16: 598991959
-      mini_capy-removebg-preview_17: -765219262
-      mini_capy-removebg-preview_1: 431418326
-      mini_capy-removebg-preview_51: -256402343
-      mini_capy-removebg-preview_52: -920646089
-      mini_capy-removebg-preview_46: -68586974
-      mini_capy-removebg-preview_34: 1962982358
-      mini_capy-removebg-preview_59: 671317040
-      mini_capy-removebg-preview_39: 1802322883
-      mini_capy-removebg-preview_60: -454934682
-      mini_capy-removebg-preview_43: -221218821
-      mini_capy-removebg-preview_54: -30653843
-      mini_capy-removebg-preview_7: 1239010526
-      mini_capy-removebg-preview_53: -21316021
-      mini_capy-removebg-preview_55: -1613216530
-      mini_capy-removebg-preview_5: 1270278016
-      mini_capy-removebg-preview_40: 543230057
-      mini_capy-removebg-preview_63: 734196051
-      mini_capy-removebg-preview_47: -1119673512
-      mini_capy-removebg-preview_48: 149541736
-      mini_capy-removebg-preview_0: 1820599010
-      mini_capy-removebg-preview_62: 1074562715
-      mini_capy-removebg-preview_66: 1022273568
-      mini_capy-removebg-preview_36: 381310159
-      mini_capy-removebg-preview_15: -886235371
-      mini_capy-removebg-preview_30: 623322083
-      mini_capy-removebg-preview_58: 713833489
-      mini_capy-removebg-preview_22: 429867346
-      mini_capy-removebg-preview_24: 448086333
-      mini_capy-removebg-preview_29: 1324605935
-      mini_capy-removebg-preview_8: -207825100
-      mini_capy-removebg-preview_11: 997168922
-      mini_capy-removebg-preview_31: 1798377517
-      mini_capy-removebg-preview_64: 286747791
-      mini_capy-removebg-preview_4: -581873800
-      mini_capy-removebg-preview_41: -1104933351
-      mini_capy-removebg-preview_32: 1317589049
-      mini_capy-removebg-preview_57: 1300670729
-      mini_capy-removebg-preview_56: -114679745
-      mini_capy-removebg-preview_18: -1204636463
-      mini_capy-removebg-preview_26: 1855488516
-      mini_capy-removebg-preview_37: -1630985666
-      mini_capy-removebg-preview_67: 1707329486
-      mini_capy-removebg-preview_10: -1841994242
-      mini_capy-removebg-preview_14: -634357179
-      mini_capy-removebg-preview_3: -1898096836
-      mini_capy-removebg-preview_2: -522973785
-      mini_capy-removebg-preview_25: 1488139617
-      mini_capy-removebg-preview_35: -314361365
-      mini_capy-removebg-preview_45: -1401830776
-      mini_capy-removebg-preview_27: 780911444
-      mini_capy-removebg-preview_21: -1436800906
-      mini_capy-removebg-preview_9: -878482711
-      mini_capy-removebg-preview_12: 1792189353
-      mini_capy-removebg-preview_61: 453382413
-      mini_capy-removebg-preview_65: -690345836
-      mini_capy-removebg-preview_6: 564656874
-      mini_capy-removebg-preview_49: -1458814660
-      mini_capy-removebg-preview_20: 1595603018
-      mini_capy-removebg-preview_19: 47605519
-      mini_capy-removebg-preview_28: -464494453
-      mini_capy-removebg-preview_44: 2081402295
+      charlieTheCapybaraAnimationSheet_56: 1447889190
+      charlieTheCapybaraAnimationSheet_26: -1812000084
+      charlieTheCapybaraAnimationSheet_29: 313411672
+      charlieTheCapybaraAnimationSheet_42: -1404156595
+      charlieTheCapybaraAnimationSheet_16: 2036494451
+      charlieTheCapybaraAnimationSheet_24: -1150509947
+      charlieTheCapybaraAnimationSheet_2: 2018977784
+      charlieTheCapybaraAnimationSheet_52: -1149596041
+      charlieTheCapybaraAnimationSheet_25: -139941123
+      charlieTheCapybaraAnimationSheet_48: 973311054
+      charlieTheCapybaraAnimationSheet_54: 1394497762
+      charlieTheCapybaraAnimationSheet_8: -1670534312
+      charlieTheCapybaraAnimationSheet_14: 551360933
+      charlieTheCapybaraAnimationSheet_4: -1696457687
+      charlieTheCapybaraAnimationSheet_39: 2103407563
+      charlieTheCapybaraAnimationSheet_15: -693273613
+      charlieTheCapybaraAnimationSheet_44: -1657747350
+      charlieTheCapybaraAnimationSheet_47: -1318055582
+      charlieTheCapybaraAnimationSheet_13: 848603139
+      charlieTheCapybaraAnimationSheet_32: -1141039328
+      charlieTheCapybaraAnimationSheet_33: -849919374
+      charlieTheCapybaraAnimationSheet_18: -114556548
+      charlieTheCapybaraAnimationSheet_35: 573490277
+      charlieTheCapybaraAnimationSheet_3: 1804033812
+      charlieTheCapybaraAnimationSheet_19: 1792521017
+      charlieTheCapybaraAnimationSheet_17: -1235266111
+      charlieTheCapybaraAnimationSheet_28: -629782720
+      charlieTheCapybaraAnimationSheet_38: -1275310969
+      charlieTheCapybaraAnimationSheet_11: 93060948
+      charlieTheCapybaraAnimationSheet_46: -707033177
+      charlieTheCapybaraAnimationSheet_37: 1150500232
+      charlieTheCapybaraAnimationSheet_49: -981151184
+      charlieTheCapybaraAnimationSheet_60: -754901705
+      charlieTheCapybaraAnimationSheet_6: 180913145
+      charlieTheCapybaraAnimationSheet_53: -803956210
+      charlieTheCapybaraAnimationSheet_10: -748553021
+      charlieTheCapybaraAnimationSheet_23: 1904185827
+      charlieTheCapybaraAnimationSheet_22: 976514395
+      charlieTheCapybaraAnimationSheet_45: 1182832357
+      charlieTheCapybaraAnimationSheet_12: -2007399725
+      charlieTheCapybaraAnimationSheet_21: 931897758
+      charlieTheCapybaraAnimationSheet_51: 1756416122
+      charlieTheCapybaraAnimationSheet_30: 1492578358
+      charlieTheCapybaraAnimationSheet_55: 61753808
+      charlieTheCapybaraAnimationSheet_20: 388988167
+      charlieTheCapybaraAnimationSheet_61: -797060125
+      charlieTheCapybaraAnimationSheet_36: -13922948
+      charlieTheCapybaraAnimationSheet_34: -1638073475
+      charlieTheCapybaraAnimationSheet_62: 1336617609
+      charlieTheCapybaraAnimationSheet_59: 133295482
+      charlieTheCapybaraAnimationSheet_5: -1279635595
+      charlieTheCapybaraAnimationSheet_31: -95342381
+      charlieTheCapybaraAnimationSheet_40: -482381885
+      charlieTheCapybaraAnimationSheet_50: -652789020
+      charlieTheCapybaraAnimationSheet_41: 599415728
+      charlieTheCapybaraAnimationSheet_27: -1742457593
+      charlieTheCapybaraAnimationSheet_1: 1540020574
+      charlieTheCapybaraAnimationSheet_0: -1593822635
+      charlieTheCapybaraAnimationSheet_7: -520957636
+      charlieTheCapybaraAnimationSheet_43: 1783742843
+      charlieTheCapybaraAnimationSheet_57: 1016816464
+      charlieTheCapybaraAnimationSheet_58: 464360778
+      charlieTheCapybaraAnimationSheet_9: -234301647
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

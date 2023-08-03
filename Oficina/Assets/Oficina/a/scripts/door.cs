@@ -9,7 +9,7 @@ public class door : MonoBehaviour
     {
         if (d.gameObject.CompareTag("Player"))
         {
-            SceneManager.LoadScene(2); 
+            SceneManager.LoadScene(3); 
         }
     }
 }
