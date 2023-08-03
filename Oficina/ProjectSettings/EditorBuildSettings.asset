@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Oficina/Oficina.unity
     guid: 085b11d1ebfd00f4eb34658f13ab431e
+  - enabled: 1
+    path: Assets/Oficina/WIN.unity
+    guid: 044f0baad3d39ad4a97c19556d4d1a6a
   m_configObjects: {}

@@ -21,5 +21,10 @@ public class capy : MonoBehaviour
             gamecontroller.instance.UpdateCa(caValue);
             Destroy(gameObject, 0.1f);
         }
-    }
+        if (gamecontroller.instance.Ca >= 5)
+        {
+            gamecontroller.instance.portal.SetActive(true); // Ativar o portal
+        }
+        }
 }
+

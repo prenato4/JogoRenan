@@ -146,3 +146,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   caValue: 1
+  portal: {fileID: 2572623893305393789, guid: 7573f3b1c78678342807de69b2cf2507, type: 3}
+  spawn: {fileID: 743949136750967325, guid: a120f155140b9f14ab6dd89d2f0222c2, type: 3}

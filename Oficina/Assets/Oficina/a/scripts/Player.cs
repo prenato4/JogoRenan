@@ -144,6 +144,7 @@ public class Player : MonoBehaviour
             transform.position = PosInicial;
         }
         
+        
     }
 
     

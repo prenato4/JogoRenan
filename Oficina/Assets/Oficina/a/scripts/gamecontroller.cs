@@ -15,6 +15,9 @@ public class gamecontroller : MonoBehaviour
     public int totalScore;
     public int Ca;
     public Text CaText;
+    
+    public GameObject portal;
+
 
     public static gamecontroller instance;
 
@@ -28,6 +31,7 @@ public class gamecontroller : MonoBehaviour
     void Awake()
     {
         instance = this;
+        portal.SetActive(false);
         
     }
 
@@ -62,9 +66,8 @@ public class gamecontroller : MonoBehaviour
         Ca += value;
         CaText.text = Ca.ToString();
         
+        
     }
-
-    
     
 
     public void RestartGame()
