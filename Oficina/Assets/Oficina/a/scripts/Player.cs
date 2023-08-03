@@ -144,10 +144,6 @@ public class Player : MonoBehaviour
             transform.position = PosInicial;
         }
         
-        else if (CL.gameObject.tag == "checkpoint")
-        {
-            PosInicial = CL.gameObject.transform.position;
-        }
     }
 
     
