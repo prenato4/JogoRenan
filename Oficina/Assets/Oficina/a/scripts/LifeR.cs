@@ -7,11 +7,12 @@ public class LifeR : MonoBehaviour
 {
 
     public int healthValue;
+    private AudioSource sound;
     
 
     public void Update()
     {
-        
+        sound = GetComponent<AudioSource>();
     }
 
 
@@ -19,7 +20,7 @@ public class LifeR : MonoBehaviour
     {
         if (CO.gameObject.tag == "Player")
         {
-            
+            sound.Play();
             CO.gameObject.GetComponent<Player>().IncreaseLife(healthValue);
             Destroy(gameObject, 0.1f);
         }
